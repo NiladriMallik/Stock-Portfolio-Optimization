@@ -1,0 +1,5 @@
+*.pptx
+*.env
+*.rar
+fe_venv/
+.ipynb_checkpoints/
